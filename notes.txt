@@ -1,0 +1,6 @@
+https://scikit-learn.org/stable/
+
+Installation:
+https://scikit-learn.org/stable/install.html
+
+Use python3 Windows installer, and virtualenv
