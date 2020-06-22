@@ -6,10 +6,10 @@ A simple script that trains from a list of temperature/humidity classifications,
 
 Install SciKit and make a virtual environment:
 
-`python3 -m venv sklearn-venv`
-`sklearn-venv\Scripts\activate`
-`pip install -U scikit-learn`
-`pip install panda`
+`python3 -m venv sklearn-venv`\
+`sklearn-venv\Scripts\activate`\
+`pip install -U scikit-learn`\
+`pip install panda`\
 `pip install xlrd`
 
 ## Run the script:
