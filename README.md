@@ -14,7 +14,7 @@ Install SciKit and make a virtual environment:
 
 ## Run the script:
 
-`python3 temperatures-classifier.py`
+`python3 temperatures-classifier-random-forest.py`
 
 ## Example output:
 
